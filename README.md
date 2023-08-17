@@ -31,7 +31,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridhimanamdev&" alt="ridhimanamdev" /></p>
 
 ## 📊 GitHub Stats
-<img width="335px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-110&langs_count=6&hide_progress=true&theme=dark"> <img width="390px" src="https://streak-stats.demolab.com/?user=ridhimanamdev&theme=dark"/>
+<img width="335px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhimanamdev&langs_count=6&hide_progress=true&theme=dark"> <img width="390px" src="https://streak-stats.demolab.com/?user=ridhimanamdev&theme=dark"/>
 
 [![Ridhima's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ridhimanamdev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
