@@ -30,6 +30,6 @@
 [![Ridhima's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ridhimanamdev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <h2>🙋‍♂️ Thanks for visiting!</h2>
+  <h2>🙋‍♂️ Thanks for visiting!!</h2>
 </div>
 
