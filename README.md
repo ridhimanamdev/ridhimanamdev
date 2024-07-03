@@ -7,9 +7,9 @@
 
 - #### 👨‍💻 My portfolio [Click Here!!](https://ridhimanamdev.000webhostapp.com/)
 
-- #### 💬 Like to discuss- **Data science, python development, Java, Data analytics**
+- #### 💬 Area Of interest- **Data science, Python, Java, Data analytics, Machine Learning, Artificial Intelligence**
 
-- #### 📫 Mail me at- **ridhimanamdev84145@gmail.com**
+- #### 📫 Mail - **ridhimanamdev84145@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
