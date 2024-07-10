@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ridhima Namdev</h1>
+<h1 align="center">Ridhima Namdev</h1>
 <h3 align="center">Data Science Enthusiast - Python & Data Structure and Algorithms</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhimanamdev&label=Profile%20views&color=0e75b6&style=flat" alt="ridhimanamdev" /> </p>
@@ -25,11 +25,13 @@
 
 
 ## 📊 GitHub Stats
-<img width="335px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhimanamdev&langs_count=6&hide_progress=true&theme=dark"> <img width="390px" src="https://streak-stats.demolab.com/?user=ridhimanamdev&theme=dark"/>
+<div align="left">
+<img width="60%" src="https://streak-stats.demolab.com/?user=Atharv-110&theme=dark"/>
+</div>
 
-[![Ridhima's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ridhimanamdev&theme=react-dark)(https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ridhima's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ridhimanamdev&bg_color=1c1c1c&color=e6e6e6&line=e6e6e6&point=c2c2c2&area=true&area_color=c2c2c2&hide_border=true)
 
 <div align="center">
-  <h2>🙋‍♂️ Thanks for visiting!!</h2>
+  <h2>🙋‍♂️ Thanks for visiting!</h2>
 </div>
 
