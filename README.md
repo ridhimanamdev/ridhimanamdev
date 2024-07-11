@@ -1,4 +1,6 @@
-<h1 align="center">Ridhima Namdev</h1>
+<img src="https://komarev.com/ghpvc/?username=Atharv-110&label=Profile+Views&color=2f81f7&style=for-the-badge" />
+
+<h2 align="center">About Me!</h2>
 <h3 align="center">Data Science Enthusiast - Python & Data Structure and Algorithms</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ridhimanamdev&label=Profile%20views&color=0e75b6&style=flat" alt="ridhimanamdev" /> </p>
