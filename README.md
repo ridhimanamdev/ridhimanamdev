@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridhimanamdev" alt="ridhimanamdev" /></a> </p>-->
 
-- #### 👨‍💻 My portfolio [Click Here!!](https://ridhimanamdev.000webhostapp.com/)
-
-- #### 💬 Area Of interest- **Data science, Python, Java (Basic), Data analytics, Machine Learning, Artificial Intelligence**
+- #### 💬 Area Of interest- **Data science, Python, Data analytics, Machine Learning, Artificial Intelligence, Management, Research**
 
 - #### 📫 Mail - **ridhimanamdev84145@gmail.com**
 
